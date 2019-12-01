@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/icon_wait"
+    android:pivotX="50%"
+    android:pivotY="50%">   //pivotX,pivotY确定图片的旋转中心是在图片中点
+
+</animated-rotate>
